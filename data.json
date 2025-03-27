@@ -1,0 +1,30 @@
+{
+    "social": [
+        {"name": "Telegram", "url": "https://t.me/GaryIndex"},
+        {"name": "Twitter", "url": "https://x.com/grayindex?s=21"}
+    ],
+    "addresses": [
+        {
+            "coin": "BTC",
+            "networks": {
+                "Bicticon": "3LsPRtS656RLSDyx8QPm57jEJgEyeRLaF8",
+                "Ethereum(ERC20)": "0xbf39B3d3C8a94212cd1f8ACD666699E366a1d4ce"
+            }
+        },
+        {
+            "coin": "ETH",
+            "networks": {
+                "Ethereum": "0xbf39B3d3C8a94212cd1f8ACD666699E366a1d4ce",
+                "BSC": "0xbf39B3d3C8a94212cd1f8ACD666699E366a1d4ce"
+            }
+        },
+        {
+            "coin": "USDT",
+            "networks": {
+                "ERC20": "0xbf39B3d3C8a94212cd1f8ACD666699E366a1d4ce",
+                "TRC20": "TW2PsX2hwX4GR1XyH3v5DiVbqSM7rnjeNS",
+                "BEP20": "0xbf39B3d3C8a94212cd1f8ACD666699E366a1d4ce"
+            }
+        }
+    ]
+}
